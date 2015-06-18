@@ -3,18 +3,18 @@ Digitaus,200,6.283185307...,Tau!,FALSE
 Digitaus,400,The position of the letter Tau in the Greek alphabet,19th,FALSE
 Digitaus,600,"The Ludolphine Number, one of the earliest approximations to Half Tau, contained this many digits",35,FALSE
 Digitaus,800,"If the circumference of the earth were calculated using Tau rounded to only the 9th decimal place, you would obtain an error this small","1/4""",FALSE
-Digitaus,1000,"With this many decimals, you could compute the circumference of the know universe with an error smaller than the radius of a hydrogen atom",39,FALSE
+Digitaus,1000,"With 39 decimals of Tau, you could compute its circumference with an error smaller than the radius of a Hydrogen atom",The known Universe,FALSE
 Geometrau,200,The number of radians in a full circle turn,Tau!,FALSE
 Geometrau,400,Tau expresses the ratio of a circle's circumference to this property,Radius,FALSE
 Geometrau,600,The formula for the circle's circumference,tau * R,FALSE
 Geometrau,800,The formula for the sphere's surface area,2 * tau * R^2,FALSE
 Geometrau,1000,The diameter of a sphere whose surface area equals Tau,sqrt(2),FALSE
 Approximataus,200,"This ancient civilization first approximated Half Tau to ""3 + 1/8"" (~3.125)",The babylonians,FALSE
-Approximataus,400,"Egyptians improved babylonians' ""3 + 1/8"" slightly with this other quotient",3 + 1/7 (~3.142),FALSE
-Approximataus,600,"This Greek philospher allegedly proposed the fairly accurate value of Half Tau ""sqrt(2) + sqrt(3)""",Plato,FALSE
-Approximataus,800,"You can approximate the circunference or the area of the circle, but technically, you cannot calculate this",The exact values,FALSE
+Approximataus,400,Egyptians improved babylonians' approximation slightly with this other quotient,3 + 1/7 (~3.142),FALSE
+Approximataus,600,"This Greek philosopher allegedly proposed the fairly accurate value of Half Tau ""sqrt(2) + sqrt(3)""",Plato,FALSE
+Approximataus,800,"You can approximate the circumference or the area of the circle, but technically, you can never calculate this",The exact values,FALSE
 Approximataus,1000,This is to date the most accurate fraction representing  Tau,208696/33215 (0.00000001056% error),FALSE
-Birthtaus,200,"This King of England was born in 1491, and well remembered for his marital life(s)",Henry VIII,FALSE
+Birthtaus,200,"This King of England was born on Tau Day 1491, and well remembered for his marital life(s)",Henry VIII,FALSE
 Birthtaus,400,"Born in Flanders in 1577, he was the master painter of the European Baroque ",Peter Paul Rubens,FALSE
 Birthtaus,600,French philosopher and social contractor born in 1712,Jean Jacques Rousseau,FALSE
 Birthtaus,800,"American actor born in 1966, starred in ""Being John Malkovich"", and personal Top5 most hated celebrities",John Cusack,FALSE
