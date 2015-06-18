@@ -31,18 +31,15 @@ Taupardy! is a collaborative game intended to be played as a group. Therefore, s
 
 You can click/tap on the questions on screen to give them focus. When a question is highlighted, use: 
 
-. `a` key to display the answer
-
-. `y` to indicate the question was correctly answered, and add the score
-
-. `n` to indicate the opposite
-
-. `x` any time for game over and final screen
+* `a` key to display the answer
+* `y` to indicate the question was correctly answered, and add the score
+* `n` to indicate the opposite
+* `x` any time for game over and final screen
 
 You can create and customize your own question panels by following the template `.xls` files in the `/data` folder, and then exporting it to utf-8 CSV. Then pointing to the appropriate `.csv` file via the `panelFileName` variable.
 
 # License
----------
+
 See [license](https://github.com/garciadelcastillo/taupardy/tree/master/LICENSE).
 
 
