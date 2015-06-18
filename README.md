@@ -1,4 +1,5 @@
 # Taupardy!
+![Taupardy!](http://fathom.info/wp-content/uploads/2014/06/IMG_4103-550x469.jpg "Taupardy!")
 ![Fathom Tau Day 2014](http://fathom.info/wp-content/uploads/2014/06/IMG_20140620_172340-550x412.jpg "Fathom Tau Day 2014")
 
 **Taupardy!** is a Jeopardy! inspired Tau quiz game for [Processing](http://www.processing.org)! 
@@ -7,7 +8,7 @@ It is particularly appropriate for [Tau Day celebrations](http://tauday.com/). B
 
 **Taupardy!** was created by [Fathom Information Design](http://fathom.info/) and [Jose Luis García del Castillo](http://www.garciadelcastillo.es). 
 
-If you like this project, had fun with it, share the love! [@fathominfo](https://twitter.com/fathominfo)
+If you like this project and had fun with it, share the love! [@fathominfo](https://twitter.com/fathominfo)
 
 # Setup
 1. Download and install [Processing](http://www.processing.org).
@@ -27,6 +28,11 @@ You can click/tap on the questions on screen to give them focus. When a question
 * `x` any time for game over and final screen
 
 You can create and customize your own question panels by following the template `.xls` files in the `/data` folder, and then exporting it to utf-8 CSV. Then pointing to the appropriate `.csv` file via the `panelFileName` variable.
+
+Enjoy!
+
+![The Fathom Team](http://fathom.info/wp-content/uploads/2014/06/tauday_taushots.png "The Fathom Team")
+
 
 # License
 See [license](https://github.com/garciadelcastillo/taupardy/tree/master/LICENSE).
