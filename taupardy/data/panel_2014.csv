@@ -1,0 +1,34 @@
+CATEGORY,VALUE,QUESTION,ANSWER,IS_DOUBLE
+Digitaus,200,6.283185307...,Tau!,FALSE
+Digitaus,400,Ben's birthday on the digitaus,"25,046,158th (?)",FALSE
+Digitaus,600,The first nine digits of Half Tau in the digitaus,"52,567,169th (141592653)",FALSE
+Digitaus,800,"The most popular digit in the first 100,000,000 digitaus","2, with 10,003,606 ocurrences. The least popular is 1, with 9,995,252",FALSE
+Digitaus,1000,The current record on the calculation of digits of Half Tau,"12 trillion digits as of December 28, 2013. That is 12,000,000,000,000!",FALSE
+Geometrau,200,The number of radians in a full circle tau-rn,Tau!,FALSE
+Geometrau,400,Tau expresses the ratio of a a circle's circumference to this property,Radius,FALSE
+Geometrau,600,The circle's area,tau * R,FALSE
+Geometrau,800,The sphere's surface area,2 * tau * r^2,FALSE
+Geometrau,1000,The diameter of a sphere whose surface area equals Tau,Square root of 2,FALSE
+Dusting off the books,200,It is believed that the dimensions of the Great Pyramid of Giza follows this ratio,Tau! (1760 cubits perimeter / 280 cubits height  ~ 6.2857...),FALSE
+Dusting off the books,400,"Around 250 BC, he devised the first rigorous algorithm to calculate Half Tau digits","Archimedes (287 BC - 212 BC). This time, he did not say Eureka!",FALSE
+Dusting off the books,600,The record for the longest manual aproximation of the digits of Half Tau,"38, achievedby Austrian astronomer Christoph Grienberger in 1630 using polygonal algorithms",FALSE
+Dusting off the books,800,This mathematician and physicist popularized the use of the lowecase greek letter Pi as representative of the value of Half Tau,"Leonhard Euler (1707-1783). He is also documented to have used Half Tau as C/r, C/2r, C/D, and even C/4r. ",FALSE
+Dusting off the books,1000,"To simplify formulation, he proposed in 1958 to replace Pi by Tau = Pi / 2!","Albert Eagle. In his writings, he also dismissed special relativity, quantum mechanics, natural selection and english spelling as absurdities...",FALSE
+Rationalitau,200,Aprox. 44 / 7,Tau! 44 / 7 = 6.285714...,FALSE
+Rationalitau,400,6 + (1 / (3 + 1 / (1 + 1 / (1 + 1 / (7 + 1 / (2... )))))),Tau!  This is expressed as a continued fraction,FALSE
+Rationalitau,600,"As part of this family of numbers, Tau is a real number that can not be expressed as a ratio of two integers",Irrational number,FALSE
+Rationalitau,800,"Because it is irrational, this is never to be found in Tau's decimals",Periodic sequence,FALSE
+Rationalitau,1000,"As part of this family of numbers, Tau is not the solution of any non-constant polynomial with rational coefficients",Transcendental number,FALSE
+Feynman Point,200,This is commonly referred to as the first ocurrence of seven consecutive 9's in Half Tau,The Feynmann Point. Named after physicist Richard Feynman (1918 - 1988),FALSE
+Feynman Point,400,This is the decimal place of the Feynman point in Tau,761st,FALSE
+Feynman Point,600,Tau's Feynman point has this many more digits than Half Tau,1,FALSE
+Feynman Point,800,The first ocurrence of eight consecutive 9's in Tau's decimals is in this position ,"36,356,642nd",FALSE
+Feynman Point,1000,The sequence of positions of consecutive 9's in Tau's decimals,"12, 79, 761, 761, 761, 761, 761, 36356642...",FALSE
+Popular culture,200,"Entire civilizations and cultures observe this day, hoping for a better mathematical world",Tau Day!,FALSE
+Popular culture,400,"This theoretical physicist wrote the Tau Manifesto in 2010, as well as the most popular Ruby on Rails Tutorial book",Michael Hartl,FALSE
+Popular culture,600,Admission decisions by this University are released on Half Tau Day at Tau Time,MIT,FALSE
+Popular culture,800,Amount of Tau-puns Mark has cranked in 2014,+-314,FALSE
+Popular culture,1000,These Tau-derived constants are missing in the Processing language!,HALF_TAU & QUARTER_TAU,FALSE
+,,,,
+,,,,
+,,,,

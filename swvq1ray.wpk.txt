@@ -1,0 +1,25 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch is up-to-date with 'origin/master'.
+#
+# Changes to be committed:
+#	modified:   README.md
+#	new file:   taupardy/Category.pde
+#	new file:   taupardy/Panel.pde
+#	new file:   taupardy/Question.pde
+#	new file:   taupardy/data/Korinna_Bold.ttf
+#	new file:   taupardy/data/Korinna_Regular.ttf
+#	new file:   taupardy/data/Swiss911.ttf
+#	new file:   taupardy/data/URWAnnual.ttf
+#	new file:   taupardy/data/bluebg.png
+#	new file:   taupardy/data/panel_2014.csv
+#	new file:   taupardy/data/panel_2014.xls
+#	new file:   taupardy/data/panel_2015.csv
+#	new file:   taupardy/data/panel_2015.xls
+#	new file:   taupardy/data/splashbg.jpg
+#	new file:   taupardy/sketch.properties
+#	new file:   taupardy/taupardy.pde
+#
+

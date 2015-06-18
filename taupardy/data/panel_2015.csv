@@ -1,0 +1,34 @@
+CATEGORY,VALUE,QUESTION,ANSWER,IS_DOUBLE
+Digitaus,200,6.283185307...,Tau!,FALSE
+Digitaus,400,The position of the letter Tau in the Greek alphabet,19th,FALSE
+Digitaus,600,"The Ludolphine Number, one of the earliest approximations to Half Tau, contained this many digits",35,FALSE
+Digitaus,800,"If the circumference of the earth were calculated using Tau rounded to only the 9th decimal place, you would obtain an error this small","1/4""",FALSE
+Digitaus,1000,"With this many decimals, you could compute the circumference of the know universe with an error smaller than the radius of a hydrogen atom",39,FALSE
+Geometrau,200,The number of radians in a full circle turn,Tau!,FALSE
+Geometrau,400,Tau expresses the ratio of a circle's circumference to this property,Radius,FALSE
+Geometrau,600,The formula for the circle's circumference,tau * R,FALSE
+Geometrau,800,The formula for the sphere's surface area,2 * tau * R^2,FALSE
+Geometrau,1000,The diameter of a sphere whose surface area equals Tau,sqrt(2),FALSE
+Approximataus,200,"This ancient civilization first approximated Half Tau to ""3 + 1/8"" (~3.125)",The babylonians,FALSE
+Approximataus,400,"Egyptians improved babylonians' ""3 + 1/8"" slightly with this other quotient",3 + 1/7 (~3.142),FALSE
+Approximataus,600,"This Greek philospher allegedly proposed the fairly accurate value of Half Tau ""sqrt(2) + sqrt(3)""",Plato,FALSE
+Approximataus,800,"You can approximate the circunference or the area of the circle, but technically, you cannot calculate this",The exact values,FALSE
+Approximataus,1000,This is to date the most accurate fraction representing  Tau,208696/33215 (0.00000001056% error),FALSE
+Birthtaus,200,"This King of England was born in 1491, and well remembered for his marital life(s)",Henry VIII,FALSE
+Birthtaus,400,"Born in Flanders in 1577, he was the master painter of the European Baroque ",Peter Paul Rubens,FALSE
+Birthtaus,600,French philosopher and social contractor born in 1712,Jean Jacques Rousseau,FALSE
+Birthtaus,800,"American actor born in 1966, starred in ""Being John Malkovich"", and personal Top5 most hated celebrities",John Cusack,FALSE
+Birthtaus,1000,This world-famous physicist was born on Half Tau day...,Albert Einstein,FALSE
+Quotaus,200,"""Half Tau"" was the secret password for this early Sandra Bullock's movie","""The Net""",FALSE
+Quotaus,400,This 2012 american-indian movie has absolutely nothing to do with any mathematical constant whatsoever...,"""Life of Pi""",FALSE
+Quotaus,600,The Bible approximates the value of Half Tau in this passage,1 Kings 7:23,FALSE
+Quotaus,800,"In this 16th century poem by John Donne, God is rationalized by finding the exact value of Half Tau","""Upon the Translations of the Psalms by Sir Philip Sidney, and the Countess of Pembroke, His Sister""",FALSE
+Quotaus,1000,This famous fictional first officer once beat a computer by challening it to compute Half Tau to its last decimal,Mr. Spock,FALSE
+Popular cultaure,200,"This theoretical physicist wrote the Tau Manifesto in 2010, as well as the most popular Ruby on Rails Tutorial book",Michael Hartl,FALSE
+Popular cultaure,400,"Randall Munroe, author of the xkcd comics, proposed this constant as a compromise solution to the Pi vs. Tau dispute",Pau (= 1.5 * Pi),FALSE
+Popular cultaure,600,Admission decissions for MIT are released each year at this day and time,"3/14, 6:28",FALSE
+Popular cultaure,800,Amount of Tau-puns Mark has cranked since 2014,+-628,FALSE
+Popular cultaure,1000,"Ethan Brown, ""math magician"" whiz-kid, holds the record for reciting this many digits of Tau...",2012,FALSE
+,,,,
+,,,,
+,,,,
