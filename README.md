@@ -3,7 +3,6 @@
 ![Fathom Tau Day 2015](http://fathom.info/wp-content/uploads/2015/06/Fathom_TauDay_06_Taupardy.jpg "Fathom Tau Day 2015")
 ![Fathom Tau Day 2014](http://fathom.info/wp-content/uploads/2014/06/IMG_20140620_172340.jpg "Fathom Tau Day 2014")
 
-
 **Taupardy!** is a [Jeopardy!](https://en.wikipedia.org/wiki/Jeopardy!) inspired Tau quiz game for [Processing](http://www.processing.org)! 
 
 It is particularly appropriate for [Tau Day celebrations](http://tauday.com/). Bundled with this code are the two panels we used for our own [2014](http://fathom.info/latest/7850) & [2015](http://fathom.info/latest/11298) celebrations, feel free to create your own ones and submit a pull request ;)
