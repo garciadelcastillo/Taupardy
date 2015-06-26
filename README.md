@@ -32,7 +32,7 @@ You can create and customize your own question panels by following the template 
 
 Enjoy!
 
-![The Fathom Team](http://fathom.info/wp-content/uploads/2014/06/tauday_taushots.png "The Fathom Team")
+![The Fathom Team](http://fathom.info/wp-content/uploads/2015/06/Fathom_TauDay_2015.jpg "The Fathom Team")
 
 
 # License
